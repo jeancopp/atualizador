@@ -1,0 +1,18 @@
+{
+  "name": "atualizador",
+  "version": "1.0.0",
+  "description": "Projeto que realizará irá rodar um script remoto",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jean Coppieters Souza <jean@coppieters.com.br> (http://coppieters.com.br/)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.14.12"
+  }
+}

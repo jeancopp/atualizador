@@ -1,0 +1,8 @@
+{
+    "port" : 9000,
+    "batfile" : "D:\\workspaces\\estudos\\atualizador\\teste.bat",
+    "api": {
+        "atualizador" : "./../api/atualizador-api.js",
+        "versao" : "./../api/versao-api.js"
+    }
+}
