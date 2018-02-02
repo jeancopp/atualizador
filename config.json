@@ -1,8 +1,9 @@
 {
     "port" : 9000,
-    "batfile" : "D:\\workspaces\\estudos\\atualizador\\teste.bat",
+    "batfile" : "C:\\DB1\\teste.bat",
     "api": {
         "atualizador" : "./../api/atualizador-api.js",
         "versao" : "./../api/versao-api.js"
-    }
+    },
+    "token" : "e73fa207-6ee8-4a58-a36a-3b52c4469882"
 }
