@@ -6,4 +6,6 @@ const router = require("./config/router-config.js");
 
 router(app, config);
 
-app.listen(config.port, () => console.log("Servidor iniciado"));
+app.listen(config.port, () => 
+    console.log(`Servidor iniciado \r\n- Porta:${config.port} \r\n- Bat: ${config.batfile}`)
+);
