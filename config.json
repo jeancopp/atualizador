@@ -5,5 +5,9 @@
         "atualizador" : "./../api/atualizador-api.js",
         "versao" : "./../api/versao-api.js"
     },
-    "token" : "e73fa207-6ee8-4a58-a36a-3b52c4469882"
+    "token" : "e73fa207-6ee8-4a58-a36a-3b52c4469882",
+    "retorno" :{
+        "aplicacao" : "edig"
+    }
+
 }
