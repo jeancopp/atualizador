@@ -8,6 +8,8 @@
     "token" : "e73fa207-6ee8-4a58-a36a-3b52c4469882",
     "retorno" :{
         "aplicacao" : "nome da aplicação"
-    }
-
-}
+    },
+    "log": {
+        "arquivo" : "C:\\DB1\\NODE\\ATUALIZADOR\\atualizador.log"
+    } 
+} 
