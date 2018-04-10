@@ -4,13 +4,17 @@
   "description": "Projeto que realizará irá rodar um script remoto",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "mocha"
   },
   "author": "Jean Coppieters Souza <jean@coppieters.com.br> (http://coppieters.com.br/)",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "express-winston": "^2.5.1",
+    "morgan": "^1.9.0",
+    "winston": "^2.4.1"
   },
   "devDependencies": {
     "nodemon": "1.14.12"

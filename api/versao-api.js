@@ -1,8 +1,8 @@
 
 module.exports = function(config){
     return function(req, resp, next){
-        console.log(req.params);
-        resp.json({ "teste":"teste"});
+        let retorno = require("../config.json").retorno;
+        resp.json(retorno);
         next();
     };
 };
